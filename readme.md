@@ -51,7 +51,7 @@ sudo fsck.ext4 -v /dev/sdb1
 ### NTFS chkdsk
 `
 chkdsk C: /f
-`
+`ejrglerjgler
 
 
 ## Integrity Verification
